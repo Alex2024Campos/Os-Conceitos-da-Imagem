@@ -3,7 +3,10 @@ Uma pesquisa objetiva sobre os conceitos que cercam as imagens digitais e as cor
 
 Imagem Digital
 
- * Conceito: Uma imagem digital é toda representação de uma imagem bidimensional na forma de números binários utilizando-se de instrumentos computacionais e tecnológicos. Existem dois tipos de imagem: a Raster e a Vetorial.
+ * Conceito: Uma imagem digital é toda representação de uma imagem bidimensional na forma de números binários utilizando-se de instrumentos computacionais e tecnológicos. Existem dois tipos de imagem: a Raster e a Vetorial. Vale ressaltar também que, para a sua captura, se é utilizado de um scanner para identificar o que está sendo fotografado.
+   
+![image](https://github.com/Alex2024Campos/Os-Conceitos-da-Imagem/assets/160960774/f7653d4e-2d39-46ae-8181-e142f889e715)
+
 
  * Pixel: Um pixel é o menor componente possível de qualquer imagem digital ou eletrônica e é utilizado para a representação de imagens em uma tela, como por exemplo, em televisões modernas e é composto pela cor vermelha, azul e verde (subpixels). Geramente um Pixel é um quadrado, mas pode assumir outras formas dependendo das proporções de sua tela.
 

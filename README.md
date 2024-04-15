@@ -12,7 +12,8 @@ Imagem Digital
 
 ![image](https://github.com/Alex2024Campos/Os-Conceitos-da-Imagem/assets/160960774/da281768-3d8b-4f04-8b62-312e32b1a00c)
 
-![image](https://github.com/Alex2024Campos/Os-Conceitos-da-Imagem/assets/160960774/bb4f3dd5-54ad-4444-89b1-cebd19b4d570)
+![image](https://github.com/Alex2024Campos/Os-Conceitos-da-Imagem/assets/160960774/468a77f4-728e-4a40-ae49-b448fd171a99)
+
 
 
  * Raster: Uma imagem do tipo raster ou matricial é aquela a qual tem correspondência bit-a-bit entre os pontos da raster e os da imagem reproduzida na tela de um monitor. As matrizes algébricas são muito utilizadas nesse tipo de imagem, a qual inclusive, perde sua qualidade ao ter sua imagem ampliada e consegue demonstrar que é somente compostar por inúmeros Pixels. Resumo: é um tipo de imagem que se  utiliza de múltiplos pixels para conseguir representar uma imagem bem e quando se é ampliada, perde a sua qualidade e fica mais pixelada.

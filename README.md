@@ -1,5 +1,6 @@
 # Os-Conceitos-da-Imagem
 Uma pesquisa objetiva sobre os conceitos que cercam as imagens digitais e as cores.
+Dupla: Alex Campos e Christian Varandas
 
 Imagem Digital
 
@@ -29,3 +30,13 @@ Imagem Digital
 * Exemplo comparativo: 
 
 ![image](https://github.com/Alex2024Campos/Os-Conceitos-da-Imagem/assets/160960774/c6906cf3-af31-4af0-9704-0a0a7252f1aa)
+
+
+
+ * Densidade de cor: A profundidade de cor é um conceito para dizer a quantidade de cores por pixel em uma imagem. Ou seja, quanto maior a profundidade, maior será a quantidade de bits por pixel. As cores são criadas a partir de canais Vermelhos, Verdes e Azuis, tendo eles 8 bits cada um. As cores são criadas combinando esses canais, que usam valores de 0 até 255. Um painel de 8 bits pode reproduzir no total 16,7 milhões de cores possíveis, misturando os valores no nível de subpixel.
+
+![image](https://github.com/Alex2024Campos/Os-Conceitos-da-Imagem/assets/162368958/4bf10641-29a8-4f51-a203-20e38cf5e79b)
+
+
+
+ * Modelos de cores:

@@ -1,7 +1,7 @@
 # Os-Conceitos-da-Imagem
 Uma pesquisa objetiva sobre os conceitos que cercam as imagens digitais e as cores.
 
-Dupla: Alex Campos e Christian Varandas
+Dupla: Alex Campos e Christian Varandas - 2º Jogos Digitais
 
 Imagem Digital
 
